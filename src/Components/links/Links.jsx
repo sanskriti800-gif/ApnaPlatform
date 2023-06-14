@@ -13,9 +13,9 @@ const Links = () => {
                         <h4>Online face-to-face mock interviews with experts help you train & prepare for job interviews in a no pressure, stress-free environment simulating a real job interview. Stay ahead of the competition with expert mentoring & feedback!</h4>
                         <ul style={{ textAlign: 'left', display: 'flex', flexDirection: 'row',marginTop:'10%' }}>
                             <li className='me-2'><i class="fa-brands fa-linkedin fa-2xl primary"></i> <a href='https://www.linkedin.com/in/sanskriti-gupta-151aab202/' style={{ textDecoration: 'none', color: '#003f68' }}>sanskriti</a></li>
-                            <li className='me-2'><i class="fa-brands fa-linkedin fa-2xl primary"></i> <a href='https://www.linkedin.com/in/sanskriti-gupta-151aab202/' style={{ textDecoration: 'none', color: '#003f68' }}>anup</a></li>
-                            <li className='me-2'><i class="fa-brands fa-github fa-2xl dark"></i> <a href='https://www.linkedin.com/in/sanskriti-gupta-151aab202/' style={{ textDecoration: 'none', color: '#003f68' }}>sanskriti</a></li>
-                            <li className='me-2'><i class="fa-brands fa-github fa-2xl dark"></i> <a href='https://www.linkedin.com/in/sanskriti-gupta-151aab202/' style={{ textDecoration: 'none', color: '#003f68' }}>anup</a></li>
+                            <li className='me-2'><i class="fa-brands fa-linkedin fa-2xl primary"></i> <a href='https://www.linkedin.com/in/anup-kumar-06186b20b/' style={{ textDecoration: 'none', color: '#003f68' }}>anup</a></li>
+                            <li className='me-2'><i class="fa-brands fa-github fa-2xl dark"></i> <a href='https://github.com/sanskriti800-gif/' style={{ textDecoration: 'none', color: '#003f68' }}>sanskriti</a></li>
+                            <li className='me-2'><i class="fa-brands fa-github fa-2xl dark"></i> <a href='https://github.com/anupkr11' style={{ textDecoration: 'none', color: '#003f68' }}>anup</a></li>
                         </ul>
                     </div>
                     <div className='col-lg-3 mx-auto team'>
