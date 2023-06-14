@@ -1,0 +1,37 @@
+.ad-head{
+    margin: 0 0 10px 0;
+    font-size: 30px;
+    font-weight: 700;
+    color: #026882;
+    text-align: left;
+}
+.ad-para{
+    color: #484848;
+    font-size: 21px;
+    text-align: left;
+}
+.ad-img{
+    height: 20%;
+    border-radius: 20%;
+}
+.ad-img2{
+    height: 80%;
+    border-radius: 20%;
+}
+
+.middle{
+    background-image: url('https://cdn.dribbble.com/users/1163294/screenshots/10976010/04_interviews.gif');
+    background-repeat: no-repeat;
+}
+
+.timeline{
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+}
+
+@media (max-width: 1000px) {
+    .ad-img2{
+        visibility: hidden;
+    }   
+
+}

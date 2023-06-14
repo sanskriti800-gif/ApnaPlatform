@@ -1,0 +1,35 @@
+.links{
+    background-color:#026882;
+    color: #003f68;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 900;
+    line-height: 2;
+}
+.links h1{
+    font-size: 18px;
+    color: #e9f6ff;
+}
+.links ul{
+    list-style-type: none;
+}
+.links li{
+    font-size: 14px;
+    color: #e9f6ff;
+}
+h4{
+    font-size: 14px;
+    color: #e9f6ff;
+    line-height: 2;
+    margin-top: 20px;
+}
+.team{
+    text-align: left;
+    font-weight: 200;
+}
+.footer-img{
+    width:70%;
+    height:40%;
+}
+.image-header{
+    text-align: center;
+}
